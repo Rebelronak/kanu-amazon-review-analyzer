@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 ![Machine Learning](https://img.shields.io/badge/ML-Powered-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)(fake-review-detector/LICENSE)
 
 **KANU** is an AI-powered Amazon review analysis platform that detects fake reviews using machine learning and provides authenticity insights to help users make informed purchasing decisions.
 
