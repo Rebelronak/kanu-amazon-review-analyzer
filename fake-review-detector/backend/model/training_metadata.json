@@ -1,0 +1,119 @@
+{
+  "training_date": "2025-06-06T13:47:17.144249",
+  "dataset_size": 20000,
+  "train_size": 16000,
+  "test_size": 4000,
+  "best_model_type": "logistic_regression",
+  "best_vectorizer_type": "tfidf_optimized",
+  "model_performance": {
+    "accuracy": 0.8545,
+    "precision": 0.854492053295289,
+    "recall": 0.8545,
+    "f1_score": 0.8544941029510512,
+    "auc_score": 0.9326199361134578,
+    "cv_mean": 0.8619373309632001,
+    "cv_std": 0.0020896107978101287
+  },
+  "optimization": "ultra_fast_8gb_ram",
+  "sample_size": "20k_reviews",
+  "creator": "Ronak Kanani",
+  "config_used": {
+    "data_path": "dataset/data/amazon_polarity.csv",
+    "model_path": "model/fake_review_model.joblib",
+    "vectorizer_path": "model/vectorizer.joblib",
+    "max_features": 10000,
+    "test_size": 0.2,
+    "random_state": 42,
+    "training_config": {
+      "cross_validation_folds": 5,
+      "grid_search_enabled": true,
+      "models_to_test": [
+        "logistic_regression",
+        "logistic_regression_tuned",
+        "random_forest",
+        "svm"
+      ],
+      "vectorizers_to_test": [
+        "tfidf_basic",
+        "tfidf_bigrams",
+        "tfidf_advanced"
+      ]
+    },
+    "text_processing": {
+      "min_review_length": 10,
+      "max_review_length": 5000,
+      "remove_duplicates": true,
+      "handle_contractions": true,
+      "remove_html": true,
+      "remove_urls": true,
+      "lowercase": true
+    },
+    "api_config": {
+      "host": "127.0.0.1",
+      "port": 5000,
+      "debug": true,
+      "max_batch_size": 50,
+      "rate_limit_per_minute": 100
+    },
+    "scraping_config": {
+      "max_reviews_per_product": 20,
+      "request_timeout": 10,
+      "max_retries": 3,
+      "delay_between_requests": 2,
+      "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      ]
+    },
+    "confidence_thresholds": {
+      "high_confidence": 0.8,
+      "medium_confidence": 0.6,
+      "low_confidence": 0.4,
+      "fake_warning_threshold": 0.7,
+      "cautious_threshold": 0.5
+    },
+    "feature_weights": {
+      "exclamation_weight": 0.1,
+      "caps_ratio_weight": 0.15,
+      "repetition_weight": 0.2,
+      "sentiment_extremes_weight": 0.25,
+      "length_anomaly_weight": 0.1
+    },
+    "output_paths": {
+      "training_logs": "logs/training.log",
+      "prediction_logs": "logs/predictions.log",
+      "model_metadata": "model/training_metadata.json",
+      "evaluation_plots": "model/evaluation_plots/",
+      "backup_models": "model/backups/"
+    },
+    "dataset_info": {
+      "name": "Amazon Polarity Dataset",
+      "source": "huggingface",
+      "description": "Amazon product reviews with positive/negative sentiment labels",
+      "classes": {
+        "0": "Genuine/Positive",
+        "1": "Fake/Negative"
+      },
+      "expected_columns": [
+        "text",
+        "label"
+      ]
+    },
+    "model_performance_targets": {
+      "minimum_accuracy": 0.75,
+      "minimum_f1_score": 0.7,
+      "minimum_precision": 0.7,
+      "minimum_recall": 0.7,
+      "target_accuracy": 0.85,
+      "target_f1_score": 0.8
+    },
+    "deployment_config": {
+      "environment": "development",
+      "version": "1.0.0",
+      "last_updated": "2025-06-06",
+      "model_refresh_interval_days": 30,
+      "backup_retention_days": 90
+    }
+  }
+}

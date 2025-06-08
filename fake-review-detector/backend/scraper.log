@@ -1,0 +1,142 @@
+2025-06-08 13:02:40,227 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:02:40,282 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-08 13:02:40,283 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-08 13:02:40,295 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:02:40,979 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:02:41,004 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:02:41,010 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:03:12,697 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:03:12] "OPTIONS /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:03:12,738 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ronak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-06-08 13:03:12,758 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ronak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\werkzeug\\serving.py', reloading
+2025-06-08 13:03:12,758 - __main__ - INFO - Cache HIT for https://www.amazon.in/Adult-CCRN%C2%AE-Exam-Study-Guide/dp/082616403X?crid=3AKIQU212LQZH&dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0RwpzuK_lx-_OkxfCENNeCxFQ4vo2JLs-swn_GlUp_WVfbAstqdlwPulj1X7_zSDT1V39we5WiEaC-Slr5JHVTardjcjlkiJ7UzUbehf-sUoHb-yN6UW5rPo7Hac9n5MucSvybWh0LXgVtegVP4DysmWh8wObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.5WhaVnGjNw0AUgPLxQuha17ZYaxnoEBVMlOXavEA7yI&dib_tag=se&keywords=300+review&qid=1749366523&sprefix=300+review%2Caps%2C264&sr=8-15
+2025-06-08 13:03:12,758 - __main__ - INFO - Returning cached result
+2025-06-08 13:03:12,759 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:03:12] "POST /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:03:13,607 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:03:14,516 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:03:14,558 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:03:14,570 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:03:17,773 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:03:17] "OPTIONS /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:03:17,786 - __main__ - INFO - Cache HIT for https://www.amazon.in/Adult-CCRN%C2%AE-Exam-Study-Guide/dp/082616403X?crid=3AKIQU212LQZH&dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0RwpzuK_lx-_OkxfCENNeCxFQ4vo2JLs-swn_GlUp_WVfbAstqdlwPulj1X7_zSDT1V39we5WiEaC-Slr5JHVTardjcjlkiJ7UzUbehf-sUoHb-yN6UW5rPo7Hac9n5MucSvybWh0LXgVtegVP4DysmWh8wObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.5WhaVnGjNw0AUgPLxQuha17ZYaxnoEBVMlOXavEA7yI&dib_tag=se&keywords=300+review&qid=1749366523&sprefix=300+review%2Caps%2C264&sr=8-15
+2025-06-08 13:03:17,786 - __main__ - INFO - Returning cached result
+2025-06-08 13:03:17,787 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:03:17] "POST /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:03:42,114 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:03:42] "OPTIONS /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:03:42,121 - __main__ - INFO - Cache MISS for https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:03:42,143 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2025-06-08 13:03:43,133 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:03:44,026 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:03:44,063 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:03:44,070 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:03:48,291 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:03:48] "OPTIONS /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:03:48,308 - __main__ - INFO - Cache MISS for https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:03:59,254 - web_scraper - INFO - Strategy 1: Found 0 reviews from product page
+2025-06-08 13:04:05,475 - web_scraper - INFO - Strategy 2: Found 0 reviews from reviews page
+2025-06-08 13:04:12,076 - web_scraper - INFO - Strategy 3: Found 0 reviews from alternative domains
+2025-06-08 13:04:12,077 - web_scraper - WARNING - Real scraping yielded limited results, using enhanced sample data
+2025-06-08 13:04:12,089 - __main__ - INFO - Cached analysis for https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:04:12,094 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:04:12] "POST /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:04:34,950 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:04:34] "OPTIONS /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:04:34,975 - __main__ - INFO - Cache HIT for https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:04:34,976 - __main__ - INFO - Returning cached result
+2025-06-08 13:04:34,977 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:04:34] "POST /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:16:02,581 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:16:02,615 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-08 13:16:02,615 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-08 13:16:02,624 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:16:03,280 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:16:03,303 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:16:03,309 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:24:57,357 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:24:57] "OPTIONS /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:24:57,361 - __main__ - INFO - PRODUCTION ANALYSIS STARTING: https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:24:57,363 - __main__ - INFO - Cache HIT for https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:24:57,363 - __main__ - INFO - Returning cached result
+2025-06-08 13:24:57,364 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:24:57] "POST /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:27:45,825 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\dataset\\download_dataset.py', reloading
+2025-06-08 13:27:45,956 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\predict.py', reloading
+2025-06-08 13:27:45,997 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\utils.py', reloading
+2025-06-08 13:27:46,146 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\train_model.py', reloading
+2025-06-08 13:27:47,217 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:27:48,514 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:27:48,558 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:27:48,572 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:38:50,530 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\\Lib\\html\\parser.py', reloading
+2025-06-08 13:38:50,532 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\\Lib\\_markupbase.py', reloading
+2025-06-08 13:38:50,544 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:38:50,644 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-08 13:38:50,645 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-08 13:38:50,666 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:38:51,036 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:38:52,362 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:38:52,430 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:38:52,445 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:38:52,714 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:38:52,767 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:38:52,782 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:47:38,694 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:47:38] "OPTIONS /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:47:38,700 - __main__ - INFO - PRODUCTION ANALYSIS STARTING: https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:47:38,707 - __main__ - INFO - Cache HIT for https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1
+2025-06-08 13:47:38,708 - __main__ - INFO - Returning cached result
+2025-06-08 13:47:38,709 - werkzeug - INFO - 127.0.0.1 - - [08/Jun/2025 13:47:38] "POST /analyze-product HTTP/1.1" 200 -
+2025-06-08 13:48:47,987 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:47,988 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:47,989 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:47,990 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:47,990 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:48,821 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:48:48,821 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:48:51,013 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:48:51,029 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:48:51,086 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:48:51,099 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:48:51,109 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:48:51,118 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:48:59,807 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:59,807 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:59,808 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:59,809 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:59,810 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:48:59,810 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:49:00,620 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:49:00,652 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:49:02,738 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:49:02,745 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:49:02,808 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:49:02,810 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:49:02,829 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:49:02,830 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:49:09,003 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:49:09,003 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:49:09,004 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 13:49:09,214 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:49:09,215 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:49:11,111 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:49:11,117 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:49:11,176 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:49:11,185 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:49:11,197 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:49:11,207 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:51:42,137 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ronak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\templating.py', reloading
+2025-06-08 13:51:42,138 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ronak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\templating.py', reloading
+2025-06-08 13:51:42,167 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ronak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\__init__.py', reloading
+2025-06-08 13:51:42,167 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ronak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\__init__.py', reloading
+2025-06-08 13:51:42,201 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ronak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\environment.py', reloading
+2025-06-08 13:51:43,106 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:51:43,110 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 13:51:45,121 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:51:45,171 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 13:51:45,190 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:51:45,206 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 13:51:45,230 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 13:51:45,246 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 14:12:27,147 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py', reloading
+2025-06-08 14:12:27,665 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-08 14:12:29,769 - __main__ - INFO - Cache initialized: cache, TTL: 2h
+2025-06-08 14:12:29,842 - werkzeug - WARNING -  * Debugger is active!
+2025-06-08 14:12:29,858 - werkzeug - INFO -  * Debugger PIN: 135-613-834
+2025-06-08 14:12:32,019 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 14:12:32,021 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 14:12:32,022 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 14:12:32,023 - werkzeug - INFO -  * Detected change in 'E:\\downloads\\projects\\fake-review-detector\\backend\\app.py', reloading
+2025-06-08 14:12:33,143 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)

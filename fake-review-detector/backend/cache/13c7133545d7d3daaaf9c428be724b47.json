@@ -1,0 +1,146 @@
+{
+  "url": "https://www.amazon.in/AccuPrints-Notebook-Compact-Opening-Unicorn/dp/B0CYH5G7RF?crid=3AKIQU212LQZH&dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0RwpzuK_lx-_OkxfCENNeCxFQ4vo2JLs-swn_GlUp_WVfbAstqdlwPulj1X7_zSDT1V39we5WiEaC-Slr5JHVTardjcjlkiJ7UzUbehf-sUoHb-yN6UW5rPo7Hac9n5MucSvybWh0LXgVtegVP4DysmWh8wObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.5WhaVnGjNw0AUgPLxQuha17ZYaxnoEBVMlOXavEA7yI&dib_tag=se&keywords=300+review&qid=1749366523&sprefix=300+review%2Caps%2C264&sr=8-16",
+  "data": {
+    "success": true,
+    "product_url": "https://www.amazon.in/AccuPrints-Notebook-Compact-Opening-Unicorn/dp/B0CYH5G7RF?crid=3AKIQU212LQZH&dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0RwpzuK_lx-_OkxfCENNeCxFQ4vo2JLs-swn_GlUp_WVfbAstqdlwPulj1X7_zSDT1V39we5WiEaC-Slr5JHVTardjcjlkiJ7UzUbehf-sUoHb-yN6UW5rPo7Hac9n5MucSvybWh0LXgVtegVP4DysmWh8wObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.5WhaVnGjNw0AUgPLxQuha17ZYaxnoEBVMlOXavEA7yI&dib_tag=se&keywords=300+review&qid=1749366523&sprefix=300+review%2Caps%2C264&sr=8-16",
+    "platform": "Amazon",
+    "product_info": {},
+    "analysis_summary": {
+      "total_reviews": 15,
+      "fake_reviews": 8,
+      "genuine_reviews": 7,
+      "fake_percentage": 53.3,
+      "avg_confidence": 76.1
+    },
+    "recommendation": {
+      "decision": "\u26a0\ufe0f MODERATE RISK - Some fake reviews present",
+      "risk_level": "MEDIUM RISK",
+      "risk_color": "caution",
+      "reason": "Analysis of 15 reviews shows 53.3% appear to be fake with 76.1% average confidence."
+    },
+    "detailed_results": [
+      {
+        "index": 1,
+        "text": "Been using this for about two months now. Quality is acceptable for the price range. Had some minor issues initially but they resolved themselves. Would consider buying from this brand again.",
+        "prediction": "Genuine",
+        "confidence": 70.9,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 2,
+        "text": "Decent product for the price. Not the highest quality but gets the job done. Shipping was fast. Would be nice if it came with better accessories. Overall a fair purchase.",
+        "prediction": "Fake",
+        "confidence": 60.0,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 3,
+        "text": "Amazing product! Best purchase ever! Incredible quality! Outstanding! Perfect! Must buy! Five stars! Love love love it! Best seller! Highly recommend! Perfect perfect perfect!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 4,
+        "text": "Product arrived damaged but the seller quickly sent a replacement. The second unit works fine. Good customer service experience. The product itself is okay, nothing special but functional.",
+        "prediction": "Genuine",
+        "confidence": 64.7,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 5,
+        "text": "Ordered this for my home office setup. The installation was straightforward and the product feels durable. It's been working well for the past month. Would recommend to others looking for this type of...",
+        "prediction": "Genuine",
+        "confidence": 65.9,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 6,
+        "text": "Good product but not great. It does what it's supposed to do but nothing exceptional. The price point is reasonable. I've had it for a few weeks now and no issues so far. Decent purchase overall.",
+        "prediction": "Genuine",
+        "confidence": 64.7,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 7,
+        "text": "The product works as advertised but took longer to set up than expected. Instructions could be clearer. Once installed, it performs well. Customer support was responsive when I had questions.",
+        "prediction": "Fake",
+        "confidence": 60.0,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 8,
+        "text": "Mixed feelings about this purchase. The product itself is decent quality but the delivery was delayed. Customer service was helpful when I contacted them. It serves its purpose but there are probably ...",
+        "prediction": "Genuine",
+        "confidence": 78.6,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 9,
+        "text": "Good value for money. The product works well and seems durable. Installation was easy. Only complaint is that it's a bit noisy during operation. Overall satisfied with the purchase.",
+        "prediction": "Fake",
+        "confidence": 60.0,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 10,
+        "text": "This product arrived quickly and was exactly as described. The build quality is solid and it works as expected. Good value for money. The packaging could be better but overall satisfied with the purch...",
+        "prediction": "Genuine",
+        "confidence": 77.8,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 11,
+        "text": "Outstanding product! Amazing quality! Best ever! Perfect! Incredible! Must buy! Five stars! Love it! Best purchase! Amazing amazing! Perfect perfect!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 12,
+        "text": "Used this product for several weeks now. It's reliable and does what it's supposed to do. Build quality is average. For the price point, it's a reasonable choice but don't expect premium features.",
+        "prediction": "Genuine",
+        "confidence": 64.7,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 13,
+        "text": "Perfect product! Amazing quality! Best ever! Outstanding! Incredible! Must have! Love love love! Best purchase ever! Perfect perfect! Amazing!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 14,
+        "text": "Best product ever! Amazing quality! Perfect! Outstanding! Incredible! Must buy! Love it so much! Best ever! Perfect purchase! Amazing amazing!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": null,
+        "reviewer": null
+      },
+      {
+        "index": 15,
+        "text": "Excellent excellent excellent! Best quality ever! Amazing amazing! Perfect product! Must have! Outstanding quality! Best ever! Love it so much! Perfect purchase! Incredible!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": null,
+        "reviewer": null
+      }
+    ],
+    "timestamp": "2025-06-08T12:39:07.364564"
+  },
+  "cached_at": "2025-06-08T12:39:07.364601"
+}

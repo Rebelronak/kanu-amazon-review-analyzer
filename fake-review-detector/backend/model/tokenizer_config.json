@@ -1,0 +1,143 @@
+{
+  "tokenizer_type": "tfidf",
+  "bert_config": {
+    "do_lower_case": true,
+    "unk_token": "[UNK]",
+    "sep_token": "[SEP]",
+    "pad_token": "[PAD]",
+    "cls_token": "[CLS]",
+    "mask_token": "[MASK]",
+    "tokenizer_class": "BertTokenizer",
+    "model_max_length": 512,
+    "clean_text": true,
+    "handle_chinese_chars": true,
+    "strip_accents": null,
+    "do_basic_tokenize": true,
+    "model_name": "bert-base-uncased",
+    "vocab_file": null,
+    "do_whole_word_mask": false,
+    "max_position_embeddings": 512,
+    "type_vocab_size": 2
+  },
+  "tfidf_config": {
+    "max_features": 10000,
+    "min_df": 2,
+    "max_df": 0.95,
+    "stop_words": "english",
+    "ngram_range": [1, 2],
+    "use_idf": true,
+    "smooth_idf": true,
+    "sublinear_tf": true,
+    "norm": "l2",
+    "analyzer": "word",
+    "token_pattern": "(?u)\\b\\w\\w+\\b",
+    "lowercase": true,
+    "strip_accents": "unicode",
+    "decode_error": "strict",
+    "input": "content",
+    "encoding": "utf-8"
+  },
+  "preprocessing": {
+    "do_lower_case": true,
+    "remove_punctuation": false,
+    "remove_stopwords": false,
+    "remove_numbers": false,
+    "remove_urls": true,
+    "remove_html": true,
+    "handle_contractions": true,
+    "normalize_whitespace": true,
+    "min_token_length": 2,
+    "max_token_length": 50
+  },
+  "special_tokens": {
+    "pad_token": "[PAD]",
+    "unk_token": "[UNK]",
+    "cls_token": "[CLS]",
+    "sep_token": "[SEP]",
+    "mask_token": "[MASK]",
+    "bos_token": "[BOS]",
+    "eos_token": "[EOS]"
+  },
+  "vocabulary": {
+    "vocab_size": 30522,
+    "oov_token": "[UNK]",
+    "preserve_case": false,
+    "char_level": false,
+    "word_level": true,
+    "subword_level": false
+  },
+  "model_compatibility": {
+    "huggingface_models": [
+      "bert-base-uncased",
+      "bert-base-cased",
+      "distilbert-base-uncased",
+      "roberta-base"
+    ],
+    "sklearn_vectorizers": [
+      "TfidfVectorizer",
+      "CountVectorizer",
+      "HashingVectorizer"
+    ],
+    "current_implementation": "sklearn_tfidf"
+  },
+  "advanced_features": {
+    "use_sentiment_features": true,
+    "use_pos_tags": false,
+    "use_named_entities": false,
+    "use_word_embeddings": false,
+    "embedding_dimension": 300,
+    "pretrained_embeddings": null
+  },
+  "batch_processing": {
+    "batch_size": 32,
+    "max_length": 512,
+    "padding": "max_length",
+    "truncation": true,
+    "return_attention_mask": true,
+    "return_token_type_ids": false,
+    "return_tensors": "pt"
+  },
+  "data_augmentation": {
+    "enable_augmentation": false,
+    "synonym_replacement": false,
+    "random_insertion": false,
+    "random_swap": false,
+    "random_deletion": false,
+    "augmentation_ratio": 0.1
+  },
+  "language_settings": {
+    "primary_language": "en",
+    "supported_languages": ["en"],
+    "multilingual_support": false,
+    "language_detection": false,
+    "translation_enabled": false
+  },
+  "performance_optimization": {
+    "use_fast_tokenizer": true,
+    "cache_tokenization": true,
+    "parallel_processing": true,
+    "num_workers": 4,
+    "prefetch_factor": 2,
+    "pin_memory": true
+  },
+  "validation": {
+    "validate_inputs": true,
+    "check_encoding": true,
+    "handle_errors": "replace",
+    "log_warnings": true,
+    "strict_mode": false
+  },
+  "version_info": {
+    "config_version": "1.0.0",
+    "last_updated": "2025-06-06",
+    "created_by": "Ronak Kanani",
+    "compatible_python_versions": ["3.7+"],
+    "required_packages": [
+      "transformers>=4.0.0",
+      "torch>=1.7.0",
+      "scikit-learn>=0.24.0",
+      "pandas>=1.2.0",
+      "numpy>=1.19.0"
+    ]
+  }
+}

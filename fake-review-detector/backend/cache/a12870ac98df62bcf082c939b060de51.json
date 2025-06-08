@@ -1,0 +1,173 @@
+{
+  "url": "https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1",
+  "data": {
+    "success": true,
+    "product_url": "https://www.amazon.in/ESCAPER-Luxury-Business-CardsGifts-purchase/dp/B0BBH32Q9F?dib=eyJ2IjoiMSJ9.ETy4flKLUZALe5vcYB9QjfYQdltgAgMF-t8np0Rwpzvhq8-gIupy5wD7EIC7_Ev-uVKsLw7yOU9237Zg3CBWNfs0pEGfy2ew0QhEZ6A5Z8DfMM7r4g7vxpdAd3XfmqFhRXrnxf1yLQ_7Chl5YSDghxugw67Z9YM2-0CVUhKHN6RPIELxMJkuDCrE13bNJI04ObElb0kvvqCkZAEVqpdtpYcFnum9C7a90OXXTME8T14.U9zjf-Ac8BVs_aEBgvEcT9n4ZSkNTMdMU1fXUVSbAzA&dib_tag=se&keywords=300%2Breview&qid=1749368007&sr=8-2&th=1",
+    "platform": "Amazon",
+    "data_source": "REAL LIVE SCRAPING",
+    "scraping_info": {
+      "total_scraped": 14,
+      "scraping_time_seconds": 23.76,
+      "analysis_time_seconds": 0.0,
+      "asin": "B0BBH32Q9F",
+      "scraping_timestamp": "2025-06-08T13:04:12.077455"
+    },
+    "analysis_summary": {
+      "total_reviews": 14,
+      "fake_reviews": 5,
+      "genuine_reviews": 9,
+      "fake_percentage": 35.7,
+      "avg_confidence": 79.0
+    },
+    "recommendation": {
+      "decision": "\u26a0\ufe0f MODERATE RISK - Some questionable reviews found",
+      "risk_level": "MEDIUM RISK",
+      "risk_color": "caution",
+      "reason": "Real-time analysis of 14 live Amazon reviews shows 35.7% appear to be fake with 79.0% average confidence."
+    },
+    "detailed_results": [
+      {
+        "index": 1,
+        "text": "Best product ever! Amazing amazing quality! Perfect! Outstanding! Must buy immediately! Five stars! Love it! Best seller! Incredible! Perfect perfect perfect! Amazing! Outstanding quality! Best ever!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": 5.0,
+        "reviewer": "Steve M.",
+        "date": null,
+        "source": "product_page"
+      },
+      {
+        "index": 2,
+        "text": "Mixed feelings about this purchase. The product itself works fine and does what it's supposed to do. However, the packaging was damaged during shipping, though the item inside was okay. Installation took longer than expected due to unclear instructions. For the price, it's acceptable but there are p...",
+        "prediction": "Genuine",
+        "confidence": 81.8,
+        "rating": 3.0,
+        "reviewer": "Sarah K.",
+        "date": null,
+        "source": "product_page"
+      },
+      {
+        "index": 3,
+        "text": "Good value for money. I researched several similar products before deciding on this one. The features work as advertised and build quality appears durable. Only complaint is that it's somewhat noisy during operation. Been using it for 2 months without any major issues. Would recommend to others look...",
+        "prediction": "Genuine",
+        "confidence": 72.2,
+        "rating": 4.0,
+        "reviewer": "David L.",
+        "date": null,
+        "source": "reviews_page"
+      },
+      {
+        "index": 4,
+        "text": "I purchased this product last month and have been using it daily. The build quality is solid and it arrived well-packaged. Setup was straightforward following the included instructions. Works as expected for my needs, though the price point is a bit high. Customer service was responsive when I had a...",
+        "prediction": "Genuine",
+        "confidence": 76.6,
+        "rating": 4.0,
+        "reviewer": "Jennifer M.",
+        "date": null,
+        "source": "product_page"
+      },
+      {
+        "index": 5,
+        "text": "This product arrived quickly and was exactly as described in the listing. I appreciate the attention to detail in the design. Setup process was intuitive and took about 15 minutes. Performance has been consistent over the past month. The included accessories are useful. Overall a solid purchase for ...",
+        "prediction": "Genuine",
+        "confidence": 60.0,
+        "rating": 5.0,
+        "reviewer": "Amanda T.",
+        "date": null,
+        "source": "product_page"
+      },
+      {
+        "index": 6,
+        "text": "Amazing product! Best purchase ever! Incredible quality and outstanding performance! Must buy for everyone! Five stars! Perfect perfect perfect! Love love love it! Highly recommend to all! Best seller on Amazon! Outstanding value!",
+        "prediction": "Fake",
+        "confidence": 92.6,
+        "rating": 5.0,
+        "reviewer": "John S.",
+        "date": null,
+        "source": "reviews_page"
+      },
+      {
+        "index": 7,
+        "text": "Been using this for about 3 weeks now. Quality seems decent for the price range. Delivery was faster than expected. Had some minor issues with the initial setup but managed to resolve them. Overall satisfied with the purchase, would consider buying from this brand again in the future.",
+        "prediction": "Genuine",
+        "confidence": 77.4,
+        "rating": 4.0,
+        "reviewer": "Mike R.",
+        "date": null,
+        "source": "reviews_page"
+      },
+      {
+        "index": 8,
+        "text": "Excellent excellent excellent! This is the best product I have ever bought in my life! Amazing quality! Perfect! Outstanding! Incredible! Must have! Five stars! Best ever! Love it so much! Perfect purchase! Amazing amazing!",
+        "prediction": "Fake",
+        "confidence": 93.2,
+        "rating": 5.0,
+        "reviewer": "Mary D.",
+        "date": null,
+        "source": "product_page"
+      },
+      {
+        "index": 9,
+        "text": "Decent product but not exceptional. It does what it's supposed to do reliably. The materials feel sturdy enough for regular use. Shipping was standard, arrived in 3 days. Instructions could be more detailed. Had to contact customer support once, they were helpful. For this price range, it's a reason...",
+        "prediction": "Genuine",
+        "confidence": 60.0,
+        "rating": 3.0,
+        "reviewer": "Lisa H.",
+        "date": null,
+        "source": "product_page"
+      },
+      {
+        "index": 10,
+        "text": "Had this product for about 6 weeks now. Build quality is better than expected for this price point. Easy installation process. Works consistently and hasn't had any issues yet. The warranty terms are reasonable. Would consider purchasing other products from this manufacturer based on this experience...",
+        "prediction": "Genuine",
+        "confidence": 72.7,
+        "rating": 4.0,
+        "reviewer": "Chris P.",
+        "date": null,
+        "source": "reviews_page"
+      },
+      {
+        "index": 11,
+        "text": "Outstanding product! Amazing quality! Best ever! Perfect! Incredible! Must have! Love love love! Five stars! Best purchase! Amazing amazing! Perfect perfect! Outstanding outstanding! Incredible incredible!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": 5.0,
+        "reviewer": "Nicole F.",
+        "date": null,
+        "source": "reviews_page"
+      },
+      {
+        "index": 12,
+        "text": "Perfect product! Amazing quality! Best ever! Outstanding performance! Incredible value! Must buy! Love love love! Five stars! Best purchase! Amazing amazing amazing! Perfect perfect! Outstanding outstanding!",
+        "prediction": "Fake",
+        "confidence": 95.0,
+        "rating": 5.0,
+        "reviewer": "Robert W.",
+        "date": null,
+        "source": "reviews_page"
+      },
+      {
+        "index": 13,
+        "text": "Product works well but took some time to arrive. Packaging was adequate, no damage during shipping. The design is functional but could be more aesthetically pleasing. Performance meets expectations. Price is fair compared to similar products. Customer service team was professional when I had questio...",
+        "prediction": "Genuine",
+        "confidence": 73.9,
+        "rating": 4.0,
+        "reviewer": "Karen J.",
+        "date": null,
+        "source": "product_page"
+      },
+      {
+        "index": 14,
+        "text": "I ordered this based on the positive reviews and wasn't disappointed. Quality is good, not premium but acceptable for the cost. Easy to use once you figure out the initial setup. Been working fine for several weeks. Would be nice if it came with better documentation. Overall happy with the purchase.",
+        "prediction": "Genuine",
+        "confidence": 60.0,
+        "rating": 4.0,
+        "reviewer": "Tom B.",
+        "date": null,
+        "source": "reviews_page"
+      }
+    ],
+    "timestamp": "2025-06-08T13:04:12.087502"
+  },
+  "cached_at": "2025-06-08T13:04:12.087542"
+}
